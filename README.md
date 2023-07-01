@@ -1,4 +1,4 @@
-# Confused-Student-EEG-Detection
+# Confused-Student-EEG-Prediction
 This work is done to detect if a student is confused or not while watching MOOC videos from EEG signal.
 
 
